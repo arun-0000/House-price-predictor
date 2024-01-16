@@ -52,7 +52,6 @@ Start the server
 
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage1.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage2.png)
-![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage3.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage4.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage5.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/LoginPage.png)
