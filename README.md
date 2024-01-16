@@ -26,13 +26,13 @@ Please adhere to this project's `code of conduct`.
 Clone the project
 
 ```bash
-  git clone https://github.com/Mayur-Debu/Final_Year_Project.git
+  git clone https://github.com/arun-0000/House-price-predictor.git
 ```
 
 Go to the project directory
 
 ```bash
-  .\Final_Year_Project\Scripts\activate
+  .\House-price-predictor\Scripts\activate
 ```
 
 Install dependencies
