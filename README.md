@@ -1,4 +1,3 @@
-
 # House Price Prediction using Machine Learning
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
@@ -52,7 +51,7 @@ Start the server
 
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage1.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage2.png)
-![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage4.png)
+![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage3.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/HomePage5.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/LoginPage.png)
 ![App Screenshot](https://github.com/Mayur-Debu/Final_Year_Project/blob/main/Screenshots/ContactPage.png)
